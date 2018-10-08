@@ -1,0 +1,11 @@
+insturctions to run the project code.
+
+
+1. plug in arduino boards to laptop.
+2. check the com port and board selected in arduino IDE according to your laptop.
+3. upload the state_change_slave.ino
+4. upload the final_state_master_athsa.ino
+5. run python code "final.py" using cmd.
+6. wait for the device to recieve wake up command.
+7. wait for the device to calibrate.
+8. enter the pin "1234" to start the device.
